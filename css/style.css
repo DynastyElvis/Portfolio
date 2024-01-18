@@ -2507,8 +2507,8 @@ textarea.form-input {
 	align-items: center;
 	justify-content: flex-start;
 	flex-direction: column;
-	/* background-image: url("https://img.freepik.com/free-photo/dark-blue-product-background_53876-92801.jpg"); */
-	background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-54014.jpg?w=2000&t=st=1705578639~exp=1705579239~hmac=5b78581209169084ae74291332c467900f800d990d1de2ebfca95c675bea4399");
+	background-image: url("https://img.freepik.com/free-photo/dark-blue-product-background_53876-92801.jpg");
+	/* background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-54014.jpg?w=2000&t=st=1705578639~exp=1705579239~hmac=5b78581209169084ae74291332c467900f800d990d1de2ebfca95c675bea4399"); */
 	background-size: cover;
 	background-position: center;
 }
